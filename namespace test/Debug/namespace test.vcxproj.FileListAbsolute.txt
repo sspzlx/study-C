@@ -1,0 +1,2 @@
+E:\Code\source\repos\namespace test\Debug\namespace test.exe
+E:\Code\source\repos\namespace test\Debug\namespace test.pdb
